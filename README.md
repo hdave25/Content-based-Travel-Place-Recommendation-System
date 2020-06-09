@@ -11,14 +11,14 @@ Here are some of the results:
 
 ![Result](./Results/1.JPG)
 
-<br/>
+---
 
 ![Result](./Results/2.JPG)
 
-<br/>
+---
 
 ![Result](./Results/3.JPG)
 
-<br/>
+---
 
 ![Result](./Results/4.JPG)
