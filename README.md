@@ -10,3 +10,9 @@ The recommendations are generated based on individual user's preferences. Most s
 Here are some of the results:
 
 ![Result](./Results/1.JPG)
+
+![Result](./Results/2.JPG)
+
+![Result](./Results/3.JPG)
+
+![Result](./Results/4.JPG)
