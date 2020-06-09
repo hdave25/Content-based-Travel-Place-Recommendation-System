@@ -6,3 +6,7 @@ The dataset used for this is custom which was created specifically for this proj
 TF-IDF vectors are calculated for each travel place and then Cosine Similarity matrix is generated which consists of similarity value from each travel place (content) TF-IDF vector to every other travel place TF-IDF vector.
 
 The recommendations are generated based on individual user's preferences. Most similar travel places are recommended according to cosine similarity matrix.
+
+Here are some of the results:
+
+![Result](./Results/1.jpg)
