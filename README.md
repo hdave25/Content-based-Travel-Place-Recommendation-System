@@ -9,4 +9,4 @@ The recommendations are generated based on individual user's preferences. Most s
 
 Here are some of the results:
 
-![Result](./Results/1.jpg)
+![Result](./Results/1.JPG)
